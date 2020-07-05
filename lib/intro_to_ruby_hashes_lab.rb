@@ -1,5 +1,8 @@
 def my_hash_creator(key,value)
-   my_hash_creator={:key =>"value"}                              # return a hash that includes the key                                                                             and value parameters                                                                                passed into this metho                 
+   my_hash_creator={:key =>"value"}  # return a hash that includes the key                  my_hash_creator    
+   
+   
+                                                                               and value parameters                                                             passed into this metho                 
       end
 
 def read_from_hash(hash, key)
