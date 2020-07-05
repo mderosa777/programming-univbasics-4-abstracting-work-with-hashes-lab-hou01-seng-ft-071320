@@ -1,5 +1,5 @@
 def my_hash_creator(key,value)
-   my_hash_creator={:key =>"value"}  # return a hash that includes the key                  my_hash_creator    
+   my_hash_creator={:nane =>"Grace Hopper"}  # return a hash that includes the key                  my_hash_creator    
    
    
                                                                                and value parameters                                                             passed into this metho                 
