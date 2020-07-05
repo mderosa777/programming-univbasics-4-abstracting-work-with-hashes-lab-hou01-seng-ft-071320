@@ -2,7 +2,7 @@ def my_hash_creator(key, value)
   my_hash_creator = {
   key => value
 }
-my_hash_creatorrace 
+my_hash_creator
                     
       end
 
